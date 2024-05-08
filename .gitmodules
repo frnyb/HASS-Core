@@ -1,0 +1,3 @@
+[submodule "config/custom_components/ios_sleep"]
+	path = config/custom_components/ios_sleep
+	url = git@github.com:frnyb-home-assistant/ios_sleep.git

@@ -2846,6 +2846,12 @@
       "config_flow": true,
       "iot_class": "cloud_push"
     },
+    "ios_sleep": {
+      "name": "iOS Sleep Schedule",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_push"
+    },
     "iotawatt": {
       "name": "IoTaWatt",
       "integration_type": "hub",
