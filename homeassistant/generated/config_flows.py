@@ -254,6 +254,7 @@ FLOWS = {
         "insteon",
         "intellifire",
         "ios",
+        "ios_sleep",
         "iotawatt",
         "ipma",
         "ipp",
